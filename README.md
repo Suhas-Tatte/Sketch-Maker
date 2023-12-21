@@ -1,1 +1,1 @@
-This is a program which convets a given image file to sketch
+This is a Image to Sketch Convertor program done using Python language
